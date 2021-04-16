@@ -1,6 +1,6 @@
 {
     "name": "stmagepack",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "bin": "./cli.js",
     "repository": "https://github.com/shinetechxian/stmagepack.git",
     "author": "creativestyle",
